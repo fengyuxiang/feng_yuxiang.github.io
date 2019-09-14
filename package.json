@@ -1,0 +1,18 @@
+{
+  "name": "yxBlog-vuepress",
+  "version": "1.0.0",
+  "description": "'# Hello Vuepress!'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitalk": "^1.5.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.4"
+  }
+}
